@@ -30,8 +30,8 @@ Link to app and source code
 
 ### 2. Presentation
 
-A Slidify presentation describing the application and usage of this app. (RPubs link)
-* [Slidify Presentation](http://rpubs.com/beeps82/DevelopingDataProductsProject)
+A Slidify presentation describing the application and usage of this app.
+* [Slidify Presentation](http://beeps82.github.io/dataProductsPres/index.html)
 
 
 --- .class #id
