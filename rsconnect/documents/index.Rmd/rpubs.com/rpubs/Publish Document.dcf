@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/177285/93d1ebeffdf04b1d802f56be9147f7d5
+bundleId: https://api.rpubs.com/api/v1/document/177285/93d1ebeffdf04b1d802f56be9147f7d5
+url: http://rpubs.com/beeps82/177285
+when: 1462079924.06046
